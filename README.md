@@ -1,4 +1,4 @@
-# Blog Generator Using API Project
+# New Blog Web App
 
 ## Overview
 This project is a Flask-based web application that automatically generates and displays blog posts by fetching top news headlines from the NewsAPI. It creates a dynamic blog site with routes for viewing all posts, individual posts, an about page, and a contact form with email notifications. The app uses a custom `Post` model to structure news data into blog-friendly format.
